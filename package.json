@@ -1,0 +1,12 @@
+{
+  "name": "socket-relay-b8c8e8",
+  "version": "1.0.0",
+  "description": "A socket relay utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["socket-relay", "utility"],
+  "license": "MIT"
+}
